@@ -1,0 +1,6 @@
+64  !particulas
+1.0   !dipolo
+0.0007   !coeficiente de autodifusion traslacional
+1.0   !masa
+10.0   !intensidad del campo externo
+1.0   !temperatura
